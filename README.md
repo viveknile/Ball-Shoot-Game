@@ -1,5 +1,5 @@
 # Ball Shoot 2D - Unity Game 🎮
-# Ball Shoot 2D is a simple yet engaging game built using Unity. The objective is to destroy all the bouncing balls on the screen by clicking on them. Once all the balls are destroyed, you win the game and can restart to play again.
+Ball Shoot 2D is a simple yet engaging game built using Unity. The objective is to destroy all the bouncing balls on the screen by clicking on them. Once all the balls are destroyed, you win the game and can restart to play again.
 
 # Features
 Interactive Gameplay: Click on bouncing balls to destroy them.
@@ -21,7 +21,6 @@ Compatible with Window, Android, IOS.
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/yourusername/BallShoot2.git
 Open the project in Unity.
 Hit Play in the Unity Editor to start the game!
 # Contributions
